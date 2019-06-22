@@ -1,0 +1,16 @@
+html{
+    background-image: url("https://i.ytimg.com/vi/JbpilADeKsg/hqdefault.jpg");
+}
+body{
+    margin: 10px;
+}
+.div-head{
+    background-color: coral;
+    color: white;
+    font-size: 30px;
+    font-weight:bolder;
+    position: absolute;
+    height: 80px;
+    width: 30%;
+    padding:10px;
+}

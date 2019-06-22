@@ -31,3 +31,7 @@
 
 6. have to use random mathod to generate numbers for the crystals and the number to beat
 
+7. On ready method to start the game 
+
+
+

@@ -12,5 +12,68 @@ body{
     position: absolute;
     height: 80px;
     width: 30%;
-    padding:10px;
+    text-align: center;
+
+}
+p.blocktext{
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 80px;
+}
+.game-istruction{
+    background-color: antiquewhite;
+    color: darkgreen;
+    position: relative;
+    height: 260px;
+    width: 40%;
+    top: 90px;
+    display: inline-block;
+    font-size: 18px;
+    padding: 10px;
+
+}
+.game-comNumber{
+    height: 80px;
+    width: 16%;
+    background-color: lightseagreen;
+    position: relative;
+    top: 100px;
+}
+.counts{
+    height: 40px;
+    width: 8%;
+    background-color: lightseagreen;
+    position: relative;
+    top: 20px;
+    left: 17%;
+    color: white;
+    font-size: 18px;
+    padding: 20px;
+}
+.gems-section{
+    position: relative;
+    top: 30px;
+}
+.myScore-heading{
+    position: relative;
+    height: 30px;
+    width: 16%;
+    background-color: lightseagreen;
+    color: white;
+    top: 30px;
+    padding: 5px;
+    
+}
+
+.myScore-board{
+    position: relative;
+    height: 80px;
+    width: 16%;
+    background-color: lightseagreen;
+    color: white;
+    top: 40px;
+    padding: 5px;
+    color: white;
+    font-size: 30px;
+    
 }

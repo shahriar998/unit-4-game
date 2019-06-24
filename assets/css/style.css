@@ -33,11 +33,15 @@ p.blocktext{
 
 }
 .game-comNumber{
-    height: 80px;
+    height: 60px;
     width: 16%;
     background-color: lightseagreen;
     position: relative;
     top: 100px;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    padding-top: 20px;
 }
 .counts{
     height: 40px;

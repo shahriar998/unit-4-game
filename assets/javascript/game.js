@@ -70,13 +70,13 @@ $(".gem-image").on("click", function() {
     if(myScore==computerNumber){
         winCount++;
         winHtml.text(winCount);
-        alert("You won!!!")
+        alert("You won!!! Press Ok to continue and Refresh the page to restart")
         secondChance()
     }
     if(myScore>computerNumber){
         lossCount++;
         lossHtml.text(lossCount);
-        alert("You lost!!!")
+        alert("You lost!!! Press Ok to continue and Refresh the page to restart")
         secondChance()
     }
 });
